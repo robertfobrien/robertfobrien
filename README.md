@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @robertfobrien
+- 👋 @robertfobrien
 - 🏫 ECE @ Princeton concentrating in robotics and cyberphysical systems
 - 📫 reach me ro7@princeton.edu
 
